@@ -173,6 +173,7 @@ a:hover {
 .title-left {
   font-size: 2rem;
   position: relative;
+  font-weight: bold;
 }
 
 .title-left:before {
@@ -1099,7 +1100,7 @@ footer .credits a {
   -ms-user-select: none;
   user-select: none;
   font-size: 1rem;
-  border-radius: .3rem;
+  border-radius: .9rem;
   border: 1px solid transparent;
   transition: all 500ms ease;
   cursor: pointer;
