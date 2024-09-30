@@ -1230,3 +1230,9 @@ footer .credits a {
     bottom: 15px;
   }
 }
+
+.more-info hr{
+  border: none;
+  width: 120px;
+  height: 15px;
+}
